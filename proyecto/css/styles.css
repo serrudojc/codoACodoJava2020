@@ -1,0 +1,34 @@
+body {
+  background: #f6efe5;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #0d2c40;
+}
+
+h1 {
+  text-align: center;
+  color: #ffffff;
+}
+
+header {
+  padding-top: 20px;
+  background: #0d2c40;
+}
+
+.nav {
+  background: #fda43f;
+  text-decoration: none;
+  padding: 3px;
+  border-radius: 5px;
+  color: #ffffff;
+}
+
+footer {
+  background: #31c5da;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.img-portada {
+  max-width: 30%;
+  height: auto;
+}
