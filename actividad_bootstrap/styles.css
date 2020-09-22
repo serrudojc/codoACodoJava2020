@@ -1,0 +1,9 @@
+.container {
+  background-color: whitesmoke;
+  padding: 2rem 4rem 0.8rem 4rem;
+}
+
+.btn {
+  padding: 0.25rem 0.5rem;
+  font-size: 0.9rem;
+}
